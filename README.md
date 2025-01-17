@@ -24,12 +24,13 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats 
 ## 📊 Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jcamelo11&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-profile-trophy.vercel.app/?username=jcamelo11&theme=radical&margin-w=15&margin-h=15&column=3&row=2" alt="GitHub Trophies"/>
 </p>
+-->
 
 
 
